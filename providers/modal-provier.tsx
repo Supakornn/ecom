@@ -1,6 +1,6 @@
 "use client";
 
-import { StoreModal } from "@/components/modals/stoe-modal";
+import { StoreModal } from "@/components/modals/store-modal";
 import { useState, useEffect } from "react";
 
 export const ModalProvier = () => {
